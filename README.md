@@ -3,7 +3,7 @@
 **HashCheck** é uma ferramenta gráfica simples e eficiente para verificação de integridade de arquivos por meio de algoritmos de hash. Com suporte a **MD5**, **SHA-1**, **SHA-256** e **SHA-512**, você pode comparar rapidamente o hash gerado de um arquivo com o esperado e garantir sua autenticidade.
 
 ## 🖥️ Captura de Tela
-![Screenshot do HashCheck]([screenshot.png](https://github.com/HermesRoot/HashCheck/blob/main/screenshot.jpg))
+![Screenshot do HashCheck](https://raw.githubusercontent.com/HermesRoot/HashCheck/main/screenshot.jpg)
 
 ## 🚀 Funcionalidades
 
